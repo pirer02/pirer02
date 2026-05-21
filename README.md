@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Pablo 👋
 
-<!--
-**pirer02/pirer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador de Aplicaciones Multiplataforma (DAM) radicado en España, apasionado por crear soluciones eficientes y automatizadas.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Tecnológico
+* **Desarrollo Multiplataforma y Móvil:** Kotlin Multiplatform (CMP), Java, Android, iOS.
+* **Automatización:** Python, desarrollo de procesos RPA.
+* **Infraestructura:** Docker, Ubuntu Server, Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 ¿En qué estoy trabajando?
+Actualmente estoy centrando mis esfuerzos en **MangaVerse**, un ecosistema de aplicaciones multiplataforma (Android, iOS y escritorio) construido con Compose Multiplatform. 
+
+### 📫 Conecta conmigo
+* LinkedIn: [Añade tu enlace aquí]
+* Email: [Añade tu correo aquí]
