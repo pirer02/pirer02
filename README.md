@@ -11,5 +11,5 @@ Soy un Desarrollador de Aplicaciones Multiplataforma (DAM) radicado en España, 
 Actualmente estoy centrando mis esfuerzos en **MangaVerse** y **Unmask**, un ecosistema de aplicaciones multiplataforma (Android, iOS y escritorio) construido con Compose Multiplatform. 
 
 ### 📫 Conecta conmigo
-* LinkedIn: [Añade tu enlace aquí]
-* Email: [Añade tu correo aquí]
+* LinkedIn: https://www.linkedin.com/in/pablo-g%C3%B3mez-merino-01aa82349
+* Email: pgomezm2002@gmail.com
